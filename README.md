@@ -44,23 +44,31 @@ The banking application GUI will pop up, and we can start using the system.
 ## Screenshots
 <img width="789" height="559" alt="image" src="https://github.com/user-attachments/assets/e90bd7ec-857b-4dfa-97bf-9bfb6f3ae3ad" />
 
+
 1. Create Account
 <img width="841" height="371" alt="image" src="https://github.com/user-attachments/assets/023fff71-00d2-44f0-b0eb-bc70941a3600" />
+
 
 2. Deposit
 <img width="830" height="346" alt="image" src="https://github.com/user-attachments/assets/f65cca35-13ad-46fe-9f5d-e225ed242295" />
 
+
 3. Withdraw
 <img width="799" height="352" alt="image" src="https://github.com/user-attachments/assets/6bc3156f-d550-4971-8c5e-8a2dcbd5a60e" />
 
+
 4. List all accounts
 <img width="736" height="558" alt="image" src="https://github.com/user-attachments/assets/b01478a3-25f7-435f-9092-01b7baae8792" />
+
 
 5. View Trasactions
 <img width="742" height="443" alt="image" src="https://github.com/user-attachments/assets/19df4154-366a-4c3a-a6df-b5c0f87a92f5" />
 
 
 [![Screenshot of Banking App](https://raw.githubusercontent.com/Jishnu-Nisamkarao/Transaction-Management/main/images/thumbnail.png)](https://raw.githubusercontent.com/Jishnu-Nisamkarao/Transaction-Management/main/images/full-screenshot.png)
+
+
+<img src="https://raw.githubusercontent.com/Jishnu-Nisamkarao/Transaction-Management/main/images/your-screenshot.png" width="500" />
 
 ## License
 
