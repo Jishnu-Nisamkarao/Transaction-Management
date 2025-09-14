@@ -25,7 +25,7 @@ Follow these simple steps to get the application running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Jishnu-Nisamkarao/Transaction-Management.git](https://github.com/Jishnu-Nisamkarao/Transaction-Management.git)
+    git clone https://github.com/Jishnu-Nisamkarao/Transaction-Management.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
