@@ -17,6 +17,7 @@ A simple banking transaction system with a graphical user interface (GUI) built 
 - `bank.py`: Defines the `Bank` class, which acts as a database to manage all `Account` objects.
 - `gui.py`: The main application file that creates and manages the graphical user interface using Tkinter.
 
+## Images folder contains all the screenshots 
 
 ## Requirements
 
@@ -40,8 +41,6 @@ Follow these simple steps to get the application running on your local machine.
     python gui.py
     ```
 The banking application GUI will pop up, and we can start using the system.
-
-# Image folder contains all the screenshots 
 
 ## License
 
